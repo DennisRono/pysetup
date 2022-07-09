@@ -1,2 +1,1 @@
-# Python Project Setup Quick Start# pysetup 
-# pysetup
+# Python Project Setup Quick Start
